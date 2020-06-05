@@ -1,0 +1,64 @@
+form {
+	margin:20px;
+	padding:0px;
+}
+
+#chatWindow {
+	height: 400px;
+	width: 100%;
+	padding: 10px;
+	text-align: left;
+
+}
+
+.header {
+	height: auto;
+	background-image: url("https://picsum.photos/700/100");
+	background-size: cover;
+	color: white;
+}
+
+.header h2 {
+	padding-top: 30px;
+}
+
+.header h3 {
+	padding: 5px;
+}
+
+.container {
+	margin-top: 40px;
+	border-collapse: ;
+}
+
+.block {
+	margin: 10px;
+	padding: 20px;
+	border: 2px solid grey;
+	border-radius: 15px;
+}
+
+#chat li {
+	margin: 6px;
+	padding:10px;
+	border: 1px solid grey;
+	background: grey;
+	border-radius: 5px;
+	width: 90%;
+	list-style: none;
+}
+
+#chat {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#chat li h5{
+	text-align:left;
+}
+
+#chat li p{
+	text-align:right;
+	margin-bottom: 0;
+}

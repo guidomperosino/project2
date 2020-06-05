@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"conne",
+				"connected"
+			],
+			[
+				"new",
+				"newLogin"
+			],
+			[
+				"User",
+				"userName"
+			],
+			[
+				"us",
+				"userName"
+			],
+			[
+				"lo",
+				"load_profile"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"fun",
+				"funcion"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"n",
+				"newMessage"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"ne",
+				"newUserButton"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"N",
+				"newUserName"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"newUser",
+				"newUserName"
+			],
+			[
+				"user",
+				"userModal"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"border-co",
+				"border-collapse\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bac",
+				"background-attachment\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"mes",
+				"messageContent"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"prices",
+				"prices_list"
+			],
+			[
+				"produ",
+				"products_list"
+			],
+			[
+				"price",
+				"prices"
+			],
+			[
+				"produc",
+				"products_list"
+			],
+			[
+				"pages",
+				"pages_list"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"pro",
+				"parent_category"
+			],
+			[
+				"get",
+				"get_text"
+			],
+			[
+				"av",
+				"av_rating"
+			],
+			[
+				"bo",
+				"book"
+			],
+			[
+				"is",
+				"isbn"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"book",
+				"book_id"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"sessi",
+				"session"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"si",
+				"site_users"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"login_",
+				"login_user"
+			],
+			[
+				"cover",
+				"cover_img"
+			],
+			[
+				"reques",
+				"requests"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"admin_or",
+				"admin_order_products_report"
+			],
+			[
+				"ordered",
+				"ordered_products_byprovider_report"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"May",
+				"Mayoromenor_obj"
+			],
+			[
+				"M",
+				"Mayoromenor_obj"
+			],
+			[
+				"in",
+				"input_game"
+			],
+			[
+				"inpu",
+				"input_game"
+			],
+			[
+				"valor",
+				"valor1"
+			],
+			[
+				"reg",
+				"RegisterForm"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"sta",
+				"STATIC_ROOT"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"com",
+				"Comment"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"Post",
+				"PostForm"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"oso",
+				"Oso"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "static/index.js",
+			"settings":
+			{
+				"buffer_size": 3266,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/style.css",
+			"settings":
+			{
+				"buffer_size": 743,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application.py",
+			"settings":
+			{
+				"buffer_size": 915,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 3748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/guido/Escritorio/Programacion/Harvard/project2",
+		"/home/guido/Escritorio/Programacion/Harvard/project2/static",
+		"/home/guido/Escritorio/Programacion/Harvard/project2/templates"
+	],
+	"file_history":
+	[
+		"/home/guido/Escritorio/Programacion/Harvard/project2/.gitignore",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/application.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project2/templates/index.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project2/static/style.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project2/application.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project2/index.js",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/layout.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/login_form.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/static/style.scss",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/static/style.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/index.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/signup_form.html",
+		"/home/guido/Escritorio/Programacion/Scrapper.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/static/style.css.map",
+		"/home/guido/django/blog/templates/blog/base.html",
+		"/home/guido/django/manage.py",
+		"/home/guido/django/mysite/settings.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/index.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/style.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/style.scss",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/mystyle.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/static/style.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/static/style.css.map",
+		"/home/guido/django/blog/static/css/blog.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/static/style.scss",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/style.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/book_detail.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/style.css",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/style.scss",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/style.css.map",
+		"/home/guido/.bashrc",
+		"/home/guido/Escritorio/Programacion/Jupyter/myvenv/lib/python3.7/site-packages/pexpect/bashrc.sh",
+		"/home/guido/dart-sass/src/LICENSE",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/requirements.txt",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/forms.py",
+		"/home/guido/django/blog/templates/blog/post_list.html",
+		"/home/guido/django/blog/templates/blog/add_comment_to_post.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/create_reviews.sql",
+		"/home/guido/django/blog/views.py",
+		"/home/guido/django/blog/apps.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/error.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/templates/result.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/helpers.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/libros.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/models.py",
+		"/home/guido/.cache/.fr-8rpzK2/src3/airline1/application.py",
+		"/home/guido/.cache/.fr-us8dt2/src3/airline1/templates/flight.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/README.md",
+		"/home/guido/.cache/.fr-ECotoq/src3/airline1/application.py",
+		"/home/guido/.cache/.fr-wimOE4/src3/airline1/templates/flights.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/create_site_users.sql",
+		"/home/guido/.cache/.fr-2Ll1li/src3/airline1/templates/layout.html",
+		"/home/guido/.cache/.fr-ti2tS4/src3/airline1/templates/flight.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/import_csv.py",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/create_books.sql",
+		"/home/guido/.cache/.fr-iHpLA3/src3/airline1/templates/index.html",
+		"/home/guido/.cache/.fr-1VkIa5/src3/airline1/templates/index.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project1/template/index.html",
+		"/home/guido/.cache/.fr-0id6B1/src3/airline1/application.py",
+		"/home/guido/.cache/.fr-JNRkuq/src3/import.py",
+		"/home/guido/.cache/.fr-mEFs1p/src3/import.py",
+		"/home/guido/.cache/.fr-YauKFZ/src4/classes1.py",
+		"/home/guido/.cache/.fr-hAqKHY/src4/create.py",
+		"/home/guido/.cache/.fr-Oklg7Y/src4/import0.py",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliorders/templates/admin/ordered_products_byprovider_print2.html",
+		"/home/guido/.cache/.fr-CcW5z6/src4/airline5/application.py",
+		"/home/guido/.cache/.fr-9UlpN4/src4/airline5/models.py",
+		"/home/guido/.cache/.fr-ONjJb3/src4/airline5/application.py",
+		"/home/guido/.cache/.fr-OPh2q7/src4/airline4/application.py",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliverest/settings_local.py",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliverest/settings.py",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliorders/admin.py",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliorders/templates/admin/products_report.html",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliorders/templates/admin/ordered_products_byprovider_print.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/README.md",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/fotosparallax.html",
+		"/home/guido/.cache/.fr-YwykFF/src1/columns0.html",
+		"/home/guido/.cache/.fr-YwykFF/src1/columns1.html",
+		"/home/guido/.cache/.fr-YwykFF/src1/columns2.html",
+		"/home/guido/.cache/.fr-YwykFF/src1/flexbox.html",
+		"/home/guido/.cache/.fr-YwykFF/src1/grid.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/buceo.html",
+		"/home/guido/Escritorio/Programacion/Harvard/project0/styleparallax.css",
+		"/home/guido/.cache/.fr-Jg3hkf/src1/variables/variables.scss",
+		"/home/guido/.cache/.fr-YG1OWg/src1/variables/variables0.css",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliproducts/models.py",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliorders/templates/admin/__ordered_products_byprovider_print.html",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/deliorders/templates/admin/deliorders/app_index.html",
+		"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest/requirements.txt",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliorders/templates/admin/orders_print.html",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliproducts/models.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliverest/urls.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/allauth/socialaccount/providers/base.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/allauth/socialaccount/models.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/allauth/account/models.py",
+		"/home/guido/.cache/.fr-cgm9vf/src1/inheritance/inheritance.scss",
+		"/home/guido/.cache/.fr-BK54Cd/src1/flexbox.html",
+		"/home/guido/.cache/.fr-Fl0mce/src1/bootstrap.html",
+		"/home/guido/Escritorio/Moe Najati.html",
+		"/home/guido/.cache/.fr-LB6vHf/src1/nesting/nesting.scss",
+		"/home/guido/.cache/.fr-SkNb1d/src1/variables/variables.css",
+		"/home/guido/.cache/.fr-BVE5Hl/src1/bootstrap.html",
+		"/home/guido/.cache/.fr-TmKm3i/src1/variables/variables.html",
+		"/home/guido/.cache/.fr-hfnHqj/src1/inheritance/inheritance.css",
+		"/home/guido/.cache/.fr-vX4iXi/src1/inheritance/inheritance.html",
+		"/home/guido/.cache/.fr-5Sg2Wx/src0/styles.css",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/markdownx/forms.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliproducts/sitemaps.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliorders/views.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliverest/decorators.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliorders/migrations/0001_initial.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliorders/migrations/0003_auto_20141026_0236.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliorders/migrations/0022_auto_20150802_1959.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delicontacts/migrations/0003_auto_20141018_2007.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delicontacts/migrations/0005_auto_20141019_0056.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delicontacts/migrations/0001_initial.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delicontacts/migrations/0016_auto_20150802_1754.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delicontacts/migrations/0011_auto_20150710_1616.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/deliorders/models.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/requirements.txt",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/constance/admin.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/autocomplete_light/forms.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/import_export/formats/base_formats.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/import_export/widgets.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/import_export/resources.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delidelivery/models.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/delicontacts/models.py",
+		"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest/myvenv/lib/python3.7/site-packages/allauth/utils.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/home/guido/Escritorio/Programacion/Organicos de mi Tierra/deliverest",
+			"/home/guido/Escritorio/Programacion/python3_OrganicosdemiTierra/deliverest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" {{",
+			"9",
+			"container",
+			"\n        ",
+			"')",
+			">",
+			"database_url",
+			"logging",
+			"%}",
+			";\n",
+			"5EB7CC11",
+			"imprimir",
+			"orders_print",
+			"Cantidad de productos",
+			"verbose_name\n",
+			"order_print_template\n",
+			"orders_print\n",
+			"order_print\n",
+			"%}\n",
+			"python_2_unicode_compatible",
+			"sucess",
+			"PROMPT_COMMAND",
+			"urlre",
+			"models",
+			"CASCADE",
+			"render_to",
+			"respuesta",
+			"'/'",
+			"navbar",
+			"you",
+			"post_new",
+			"}",
+			"dolarhoy",
+			"time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "static/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2997,
+								2997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2861,
+								2861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "application.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"product model",
+				"python3_OrganicosdemiTierra/deliverest/deliproducts/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
